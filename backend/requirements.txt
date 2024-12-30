@@ -1,0 +1,6 @@
+# python module required for prediction of heart disease 
+xgboost
+scikit-learn
+pandas
+numpy
+joblib

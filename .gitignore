@@ -1,0 +1,15 @@
+# Ignore virtual environments in all folders
+env/
+venv/
+
+# Ignore sensitive credentials
+backend/config/monitorcare-1e8f8-firebase-adminsdk-qrok0-ad2330d353.json
+
+# Ignore node_modules in frontend and backend (if applicable)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
