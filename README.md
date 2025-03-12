@@ -15,3 +15,6 @@ Tech Stack
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Machine Learning Models: Python (for data analysis and heart disease prediction)
+
+Authentication
+- password: @Dmin123 

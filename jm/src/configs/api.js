@@ -1,5 +1,7 @@
-// const API_BASE_URL = 'http://192.168.100.85:5001';
-const API_BASE_URL = 'http://192.168.67.212:5001';
+// Data
+const API_BASE_URL = 'http://192.168.30.212:5001';
+// Home
+// const API_BASE_URL = 'http://192.168.100.14:5001';
 
 const endpoints = {
     // User API
