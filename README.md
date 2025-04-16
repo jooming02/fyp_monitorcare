@@ -1,4 +1,4 @@
-# monitorcare
+# MonitorCare
 
 Mobile Health Monitoring System for Noncommunicable Diseases Using Data Analysis of Body Test Results
 
